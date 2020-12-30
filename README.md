@@ -1,6 +1,6 @@
 # vyperdatum
 
-[![Build Status](https://travis-ci.com/TashiGeleg/vyperdatum.svg?branch=main)](https://travis-ci.com/TashiGeleg/vyperdatum)
+[![Build Status](https://travis-ci.com/TashiGeleg/vyperdatum.svg?branch=develop)](https://travis-ci.com/TashiGeleg/vyperdatum)
 
 A collection of tools for doing datum transformations using VDatum grids with PROJ.
 
